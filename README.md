@@ -16,4 +16,4 @@
 
 **Status:** _In progress_ — public skeleton --- initial docs shipping soon.
 
-_Interested in contributing?_ PRs welcome once the skeleton lands.
+_Interested in contributing?_ submit a PR once the skeleton lands.
